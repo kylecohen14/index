@@ -1,0 +1,21 @@
+header li {
+    display: inline;
+    border: solid wheat 4px;
+    background-color: turquoise;
+}
+
+body {
+    background-color: teal;
+}
+header {
+    background-color: wheat;
+    text-align: center;
+}
+h1 {
+    color: rgb(22, 19, 201);
+    border: #00cc00;
+    background-color: powderblue;
+}
+section {
+    width: 160px;
+}
