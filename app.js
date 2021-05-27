@@ -13,8 +13,8 @@ document.write('<h2>' + userName + '</h2>');
 
 
 
-let userName = prompt('Do you love fishing?');
-console.log(userAnswer);
+let question1 = prompt('Do you love fishing?');
+console.log(question1);
 
 if (userAnswer == 'yes') {
     document.write('<h3>Meet me at the boat ramp! ' + userName +'</h3>');
