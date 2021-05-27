@@ -18,5 +18,10 @@ h1 {
     background-color: powderblue;
 }
 section {
+    
+    width: 160px;
+}
+
+img {
     width: 160px;
 }
